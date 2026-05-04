@@ -1,4 +1,8 @@
 # Yakumo
+
+# Disclaimer
+This project is discontinued and the repository is archived. I first made this program when a strong necessity surged for transferring files in-between machines on LAN, and instead of using FTP I chose to give this project a try. I learned a lot from it and I loved making it, but I do not recommend anyone using it. Yakumo is unmaintained, hasn't seen any changes in years, it's buggy and insecure. I stopped working on Yakumo because my necessity for making this project disappeared.
+
 Yakumo is a TCP server and client for transferring files. It uses its own simple protocol.
 
 It supports bi-directional file transfer, as well as server security configuration and a convenient terminal interface. Yakumo is mostly convenient for transferring files over LAN. While you can host a public server to the world, you should be careful with the data you transfer and store, as well as the password you set up, as the connection is currently not encrypted.
